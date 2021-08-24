@@ -1,0 +1,8 @@
+type,client,tx,amount
+deposit,1,1,100
+deposit,3,2,23.2475
+deposit,2,3,12
+withdrawal,3,4,20.3
+withdrawal,2,5,8.3154
+withdrawal,1,6,86
+withdrawal,1,7,10
